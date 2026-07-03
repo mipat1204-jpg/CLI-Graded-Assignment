@@ -1,0 +1,14 @@
+1. lsblk
+I listed the available storage devices connected to the system. This displayed the storage layout.
+
+2. df -h
+I displayed the disk usage in a human-readable format. This showed the available and used storage.
+
+3. du -sh
+I checked the size of my home directory. This displayed the total disk usage of the directory.
+
+4. df -i
+I displayed inode usage for the filesystem. This helped me understand inode allocation.
+
+5. vim
+I used the Vim editor to create the report file. This demonstrated basic text editing in Linux.
