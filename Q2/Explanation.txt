@@ -1,0 +1,14 @@
+1. mkdir
+I used mkdir to create the ProjectWorkspace directory and its subdirectories. This organized the project files.
+
+2. ls -R
+I used ls -R to display the complete folder structure recursively. It verified that the directories were created correctly.
+
+3. ls -ld
+I used ls -ld to view the permissions of the ProjectWorkspace directory. It showed the current permission settings.
+
+4. chmod 700
+I changed the permissions of ProjectWorkspace so that only the owner could access it. This improved security.
+
+5. umask
+I displayed the current umask value to understand the default permission settings for newly created files.
