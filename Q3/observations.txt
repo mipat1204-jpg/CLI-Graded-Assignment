@@ -1,0 +1,14 @@
+1. ln
+Creates a hard link.
+
+2. ln -s
+Creates a symbolic link.
+
+3. ls -li
+Displays inode numbers.
+
+4. stat
+Displays detailed file information.
+
+5. rm
+Deletes a file.

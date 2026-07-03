@@ -1,0 +1,12 @@
+Storage Assessment Report
+
+1. Storage devices listed using lsblk.
+
+2. Disk usage displayed using df -h.
+
+3. Home directory size displayed using du -sh.
+
+4. Inode usage displayed using df -i.
+
+5. Storage system verified successfully.:wq
+

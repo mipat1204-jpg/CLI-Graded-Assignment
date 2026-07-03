@@ -1,0 +1,14 @@
+1. lsblk
+Lists storage devices.
+
+2. df -h
+Displays disk usage.
+
+3. du -sh
+Displays directory size.
+
+4. df -i
+Displays inode usage.
+
+5. vim
+Used to create and edit the report file.

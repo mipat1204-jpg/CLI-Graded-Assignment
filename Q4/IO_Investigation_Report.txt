@@ -1,0 +1,11 @@
+I/O Investigation Report
+
+1. Listed open files using lsof.
+
+2. Viewed file descriptors using /proc/self/fd.
+
+3. Redirected output to output.txt.
+
+4. Redirected error messages to error.txt.
+
+5. Displayed process resource limits using ulimit.

@@ -1,0 +1,11 @@
+Secure Project Workspace Report
+
+1. ProjectWorkspace directory created successfully.
+
+2. Documents and Reports directories created inside ProjectWorkspace.
+
+3. Permissions changed to 700 using chmod.
+
+4. The owner has full access while others have no permissions.
+
+5. Current umask value displayed successfully.

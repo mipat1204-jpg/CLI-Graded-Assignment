@@ -1,0 +1,15 @@
+1. lsof
+Lists open files.
+
+2. /proc/self/fd
+Shows file descriptors.
+
+3. >
+Redirects output to a file.
+
+4. 2>
+Redirects error messages.
+
+5. ulimit
+Displays system resource limits.
+

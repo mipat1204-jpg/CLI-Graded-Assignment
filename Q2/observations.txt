@@ -1,0 +1,14 @@
+1. mkdir
+Used to create directories.
+
+2. ls -R
+Displayed the complete directory structure.
+
+3. ls -ld
+Displayed directory permissions.
+
+4. chmod 700
+Changed permissions so only the owner can access the directory.
+
+5. umask
+Displayed the default permission mask.
