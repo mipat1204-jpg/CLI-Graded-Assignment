@@ -1,0 +1,14 @@
+1. echo
+I created the original.txt file using the echo command. This file was used for link creation.
+
+2. ln
+I created a hard link to the original file. The hard link continued to work even after deleting the original file.
+
+3. ln -s
+I created a symbolic link to the original file. After deleting the original file, the symbolic link became broken.
+
+4. stat
+I used stat to view detailed information about the files and links. It showed inode and file details.
+
+5. rm
+I deleted the original file to observe the behavior of the hard link and symbolic link.
