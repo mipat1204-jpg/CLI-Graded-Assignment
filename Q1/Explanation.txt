@@ -1,0 +1,11 @@
+1. pwd
+I used the pwd command to display the current working directory. It confirmed that I was working in the correct location.
+
+2. ls
+I used the ls command to list the files and folders in the current directory. It helped me verify the contents of the directory.
+
+3. ls -la
+I used ls -la to display all files, including hidden files and their permissions. This gave detailed information about the directory contents.
+
+4. ping -c 4 google.com
+I used this command to test internet connectivity. The successful replies confirmed that the network connection was working correctly.
