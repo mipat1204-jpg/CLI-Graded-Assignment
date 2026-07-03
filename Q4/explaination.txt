@@ -1,0 +1,14 @@
+1. lsof
+I listed the currently open files in the system. This helped me understand file usage.
+
+2. ls -l /proc/self/fd
+I viewed the file descriptors of the current process. This showed how Linux manages input and output.
+
+3. >
+I redirected command output into a file. This demonstrated output redirection.
+
+4. 2>
+I redirected error messages into a separate file. This demonstrated error redirection.
+
+5. ulimit
+I displayed the current resource limits of the shell. This showed system limits for processes.
